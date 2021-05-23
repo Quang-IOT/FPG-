@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "174850981718",
+    "firebase_url": "https://remotedatabase-d1c46-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "remotedatabase-d1c46",
+    "storage_bucket": "remotedatabase-d1c46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174850981718:android:baaa49a7380833fb7d20f7",
+        "android_client_info": {
+          "package_name": "com.example.remoteir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174850981718-91alnovh6vuvqli28674ec28i638rgqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWEa8eQgBwvF9PGSeo7ZqVyvP9EEVJ1bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174850981718-91alnovh6vuvqli28674ec28i638rgqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
