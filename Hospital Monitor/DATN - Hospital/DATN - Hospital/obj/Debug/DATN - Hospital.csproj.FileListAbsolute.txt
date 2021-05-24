@@ -1,0 +1,20 @@
+C:\Users\minh2\source\repos\DATN - Hospital\DATN - Hospital\bin\Debug\DATN - Hospital.exe.config
+C:\Users\minh2\source\repos\DATN - Hospital\DATN - Hospital\bin\Debug\DATN - Hospital.exe
+C:\Users\minh2\source\repos\DATN - Hospital\DATN - Hospital\bin\Debug\DATN - Hospital.pdb
+C:\Users\minh2\source\repos\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.csprojAssemblyReference.cache
+C:\Users\minh2\source\repos\DATN - Hospital\DATN - Hospital\obj\Debug\DATN___Hospital.Form1.resources
+C:\Users\minh2\source\repos\DATN - Hospital\DATN - Hospital\obj\Debug\DATN___Hospital.Properties.Resources.resources
+C:\Users\minh2\source\repos\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.csproj.GenerateResource.cache
+C:\Users\minh2\source\repos\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.csproj.CoreCompileInputs.cache
+C:\Users\minh2\source\repos\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.exe
+C:\Users\minh2\source\repos\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.pdb
+F:\DATN.K15\DATN - Hospital\DATN - Hospital\DATN - Hospital\bin\Debug\DATN - Hospital.exe.config
+F:\DATN.K15\DATN - Hospital\DATN - Hospital\DATN - Hospital\bin\Debug\DATN - Hospital.exe
+F:\DATN.K15\DATN - Hospital\DATN - Hospital\DATN - Hospital\bin\Debug\DATN - Hospital.pdb
+F:\DATN.K15\DATN - Hospital\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.csprojAssemblyReference.cache
+F:\DATN.K15\DATN - Hospital\DATN - Hospital\DATN - Hospital\obj\Debug\DATN___Hospital.Form1.resources
+F:\DATN.K15\DATN - Hospital\DATN - Hospital\DATN - Hospital\obj\Debug\DATN___Hospital.Properties.Resources.resources
+F:\DATN.K15\DATN - Hospital\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.csproj.GenerateResource.cache
+F:\DATN.K15\DATN - Hospital\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.csproj.CoreCompileInputs.cache
+F:\DATN.K15\DATN - Hospital\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.exe
+F:\DATN.K15\DATN - Hospital\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.pdb

@@ -127,7 +127,7 @@
         android:background="#388087"
         android:text="menu"
         android:layout_marginLeft="70dp"
-        android:textSize="5dp" />
+        android:textSize="5.5dp" />
 
     <Button
         android:id="@+id/buttonp1"
@@ -177,7 +177,7 @@
         android:textColor="#f6f6f2"
         android:background="#388087"
         android:text="mute"
-        android:textSize="5dp" />
+        android:textSize="5.5dp" />
 
     <Button
         android:id="@+id/buttonp4"
@@ -226,7 +226,7 @@
         android:layout_marginLeft="70dp"
 
         android:text="exit"
-        android:textSize="5dp" />
+        android:textSize="5.5dp" />
 
     <Button
         android:id="@+id/buttonp7"
@@ -275,7 +275,7 @@
         android:textColor="#f6f6f2"
         android:background="#388087"
         android:text="mode"
-        android:textSize="5dp" />
+        android:textSize="5.5dp" />
 
     <Button
         android:id="@+id/buttonpsao"
