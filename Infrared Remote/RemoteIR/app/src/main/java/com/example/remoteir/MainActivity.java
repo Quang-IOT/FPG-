@@ -36,23 +36,23 @@ public class MainActivity extends AppCompatActivity {
         dw = csdl.getReference("TT_DW");
         next = csdl.getReference("TT_NEXT");
         back = csdl.getReference("TT_BACK");
-        b0 = csdl.getReference("TT_0");
-        b1 = csdl.getReference("TT_1");
-        b2 = csdl.getReference("TT_2");
-        b3 = csdl.getReference("TT_3");
-        b4 = csdl.getReference("TT_4");
-        b5 = csdl.getReference("TT_5");
-        b6 = csdl.getReference("TT_6");
-        b7 = csdl.getReference("TT_7");
-        b8 = csdl.getReference("TT_8");
-        b9 = csdl.getReference("TT_9");
+        b0 = csdl.getReference("NUT_0");
+        b1 = csdl.getReference("NUT_1");
+        b2 = csdl.getReference("NUT_2");
+        b3 = csdl.getReference("NUT_3");
+        b4 = csdl.getReference("NUT_4");
+        b5 = csdl.getReference("NUT_5");
+        b6 = csdl.getReference("NUT_6");
+        b7 = csdl.getReference("NUT_7");
+        b8 = csdl.getReference("NUT_8");
+        b9 = csdl.getReference("NUT_9");
         bsao = csdl.getReference("TT_SAO");
         bthang = csdl.getReference("TT_THANG");
         mode = csdl.getReference("TT_MODE");
         menu = csdl.getReference("TT_MENU");
         exit = csdl.getReference("TT_EXIT");
         mute = csdl.getReference("TT_MUTE");
-        set = csdl.getReference("TT_SET");
+        set = csdl.getReference("MODE_RUN");
         bt1.setOnTouchListener(new View.OnTouchListener() {
             @Override
             public boolean onTouch(View v, MotionEvent event) {
@@ -392,7 +392,7 @@ public class MainActivity extends AppCompatActivity {
                 if(b)
                 {
                     set.setValue("1");
-                    Toast.makeText(MainActivity.this,"Đang họclệnh",Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this,"Đang học lệnh",Toast.LENGTH_LONG).show();
                 }
                 else {
                     set.setValue("0");

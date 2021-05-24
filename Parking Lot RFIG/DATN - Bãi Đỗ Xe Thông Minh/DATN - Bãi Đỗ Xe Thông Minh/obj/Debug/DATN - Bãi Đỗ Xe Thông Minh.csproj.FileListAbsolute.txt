@@ -26,3 +26,31 @@ C:\Users\minh2\source\repos\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ X
 C:\Users\minh2\source\repos\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\obj\Debug\DATN - Bãi Đỗ Xe Thông Minh.pdb
 C:\Users\minh2\source\repos\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\obj\Debug\DATN___Bãi_Đỗ_Xe_Thông_Minh.Them_Thong_Tin_Xe.resources
 C:\Users\minh2\source\repos\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\obj\Debug\DATN___Bãi_Đỗ_Xe_Thông_Minh.main_Menu.resources
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\bin\Debug\DATN - Bãi Đỗ Xe Thông Minh.exe.config
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\bin\Debug\DATN - Bãi Đỗ Xe Thông Minh.exe
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\bin\Debug\DATN - Bãi Đỗ Xe Thông Minh.pdb
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\bin\Debug\FireSharp.dll
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\obj\Debug\DATN - Bãi Đỗ Xe Thông Minh.csproj.App.config
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\obj\Debug\DATN - Bãi Đỗ Xe Thông Minh.csprojAssemblyReference.cache
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\obj\Debug\DATN___Bãi_Đỗ_Xe_Thông_Minh.Giao_Dien_Gui_Xe.resources
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\obj\Debug\DATN___Bãi_Đỗ_Xe_Thông_Minh.Giao_Dien_Lay_Xe.resources
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\obj\Debug\DATN___Bãi_Đỗ_Xe_Thông_Minh.main_Menu.resources
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\obj\Debug\DATN___Bãi_Đỗ_Xe_Thông_Minh.Properties.Resources.resources
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\obj\Debug\DATN___Bãi_Đỗ_Xe_Thông_Minh.Them_Thong_Tin_Xe.resources
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\obj\Debug\DATN - Bãi Đỗ Xe Thông Minh.csproj.GenerateResource.cache
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\obj\Debug\DATN - Bãi Đỗ Xe Thông Minh.csproj.CoreCompileInputs.cache
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\obj\Debug\DATN - Bãi Đỗ Xe Thông Minh.csproj.CopyComplete
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\obj\Debug\DATN - Bãi Đỗ Xe Thông Minh.exe
+C:\Users\BV_Computer\Documents\FPG-\Parking Lot RFIG\DATN - Bãi Đỗ Xe Thông Minh\DATN - Bãi Đỗ Xe Thông Minh\obj\Debug\DATN - Bãi Đỗ Xe Thông Minh.pdb
