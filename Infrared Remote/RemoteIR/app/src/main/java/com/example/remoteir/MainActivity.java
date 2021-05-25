@@ -28,31 +28,31 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         anhxa();
         csdl = FirebaseDatabase.getInstance();
-        on1 = csdl.getReference("TT_NUT_ON_1");
-        on2 = csdl.getReference("TT_NUT_ON_2");
-        on3 = csdl.getReference("TT_NUT_ON_3");
-        on4 = csdl.getReference("TT_NUT_ON_4");
-        up = csdl.getReference("TT_UP");
-        dw = csdl.getReference("TT_DW");
-        next = csdl.getReference("TT_NEXT");
-        back = csdl.getReference("TT_BACK");
-        b0 = csdl.getReference("NUT_0");
-        b1 = csdl.getReference("NUT_1");
-        b2 = csdl.getReference("NUT_2");
-        b3 = csdl.getReference("NUT_3");
-        b4 = csdl.getReference("NUT_4");
-        b5 = csdl.getReference("NUT_5");
-        b6 = csdl.getReference("NUT_6");
-        b7 = csdl.getReference("NUT_7");
-        b8 = csdl.getReference("NUT_8");
-        b9 = csdl.getReference("NUT_9");
-        bsao = csdl.getReference("TT_SAO");
-        bthang = csdl.getReference("TT_THANG");
-        mode = csdl.getReference("TT_MODE");
-        menu = csdl.getReference("TT_MENU");
-        exit = csdl.getReference("TT_EXIT");
-        mute = csdl.getReference("TT_MUTE");
-        set = csdl.getReference("MODE_RUN");
+//        on1 = csdl.getReference("TT_NUT_ON_1");
+//        on2 = csdl.getReference("TT_NUT_ON_2");
+//        on3 = csdl.getReference("TT_NUT_ON_3");
+//        on4 = csdl.getReference("TT_NUT_ON_4");
+//        up = csdl.getReference("TT_UP");
+//        dw = csdl.getReference("TT_DW");
+//        next = csdl.getReference("TT_NEXT");
+//        back = csdl.getReference("TT_BACK");
+//        b0 = csdl.getReference("NUT_0");
+        b1 = csdl.getReference("DATA/NUT_01");
+        b2 = csdl.getReference("DATA/NUT_02");
+        b3 = csdl.getReference("DATA/NUT_03");
+        b4 = csdl.getReference("DATA/NUT_04");
+        b5 = csdl.getReference("DATA/NUT_05");
+        b6 = csdl.getReference("DATA/NUT_06");
+        b7 = csdl.getReference("DATA/NUT_07");
+        b8 = csdl.getReference("DATA/NUT_08");
+        b9 = csdl.getReference("DATA/NUT_09");
+//        bsao = csdl.getReference("TT_SAO");
+//        bthang = csdl.getReference("TT_THANG");
+//        mode = csdl.getReference("TT_MODE");
+//        menu = csdl.getReference("TT_MENU");
+//        exit = csdl.getReference("TT_EXIT");
+//        mute = csdl.getReference("TT_MUTE");
+        set = csdl.getReference("SETUP/MODE");
         bt1.setOnTouchListener(new View.OnTouchListener() {
             @Override
             public boolean onTouch(View v, MotionEvent event) {
@@ -237,6 +237,13 @@ public class MainActivity extends AppCompatActivity {
                 if(event.getAction()==MotionEvent.ACTION_DOWN)
                 {
                     b1.setValue("1");
+                    try
+                    {
+                        Thread.sleep(3000);
+                    }
+                    catch(Exception e)
+                    {
+                    }
                 }
                 else if(event.getAction()==MotionEvent.ACTION_UP)
                 {b1.setValue("0");
@@ -250,6 +257,13 @@ public class MainActivity extends AppCompatActivity {
                 if(event.getAction()==MotionEvent.ACTION_DOWN)
                 {
                     b2.setValue("1");
+                    try
+                    {
+                        Thread.sleep(3000);
+                    }
+                    catch(Exception e)
+                    {
+                    }
                 }
                 else if(event.getAction()==MotionEvent.ACTION_UP)
                 {
@@ -264,6 +278,13 @@ public class MainActivity extends AppCompatActivity {
                 if(event.getAction()==MotionEvent.ACTION_DOWN)
                 {
                     b3.setValue("1");
+                    try
+                    {
+                        Thread.sleep(3000);
+                    }
+                    catch(Exception e)
+                    {
+                    }
                 }
                 else if(event.getAction()==MotionEvent.ACTION_UP)
                 {
@@ -278,6 +299,13 @@ public class MainActivity extends AppCompatActivity {
                 if(event.getAction()==MotionEvent.ACTION_DOWN)
                 {
                     b4.setValue("1");
+                    try
+                    {
+                        Thread.sleep(3000);
+                    }
+                    catch(Exception e)
+                    {
+                    }
                 }
                 else if(event.getAction()==MotionEvent.ACTION_UP)
                 {b4.setValue("0");
@@ -291,6 +319,13 @@ public class MainActivity extends AppCompatActivity {
                 if(event.getAction()==MotionEvent.ACTION_DOWN)
                 {
                     b5.setValue("1");
+                    try
+                    {
+                        Thread.sleep(3000);
+                    }
+                    catch(Exception e)
+                    {
+                    }
                 }
                 else if(event.getAction()==MotionEvent.ACTION_UP)
                 {
@@ -305,6 +340,13 @@ public class MainActivity extends AppCompatActivity {
                 if(event.getAction()==MotionEvent.ACTION_DOWN)
                 {
                     b6.setValue("1");
+                    try
+                    {
+                        Thread.sleep(3000);
+                    }
+                    catch(Exception e)
+                    {
+                    }
                 }
                 else if(event.getAction()==MotionEvent.ACTION_UP)
                 {
@@ -319,6 +361,13 @@ public class MainActivity extends AppCompatActivity {
                 if(event.getAction()==MotionEvent.ACTION_DOWN)
                 {
                     b7.setValue("1");
+                    try
+                    {
+                        Thread.sleep(3000);
+                    }
+                    catch(Exception e)
+                    {
+                    }
                 }
                 else if(event.getAction()==MotionEvent.ACTION_UP)
                 {
@@ -334,6 +383,13 @@ public class MainActivity extends AppCompatActivity {
                 if(event.getAction()==MotionEvent.ACTION_DOWN)
                 {
                     b8.setValue("1");
+                    try
+                    {
+                        Thread.sleep(3000);
+                    }
+                    catch(Exception e)
+                    {
+                    }
                 }
                 else if(event.getAction()==MotionEvent.ACTION_UP)
                 {
@@ -348,6 +404,13 @@ public class MainActivity extends AppCompatActivity {
                 if(event.getAction()==MotionEvent.ACTION_DOWN)
                 {
                     b9.setValue("1");
+                    try
+                    {
+                        Thread.sleep(3000);
+                    }
+                    catch(Exception e)
+                    {
+                    }
                 }
                 else if(event.getAction()==MotionEvent.ACTION_UP)
                 {
