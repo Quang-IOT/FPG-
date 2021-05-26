@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:textColor="#f6f6f2"
+    android:background="#388087"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+        <LinearLayout
+            android:layout_width="88dp"
+            android:layout_height="200dp"
+            android:orientation="vertical"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="23dp"
+                android:textSize="17dp"
+                android:text="Thiết Kế Hê Thống Giám Sát Môi Trường"
+                android:gravity="center"
+                android:textColor="#000000" />
+
+
+            <TextView
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:textSize="17dp"
+                android:text="Hồ Nuôi Thủy Sản"
+
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/txtName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:text="Tên sinh viên"
+                android:textColor="#000000" />
+
+            <TextView
+
+                android:id="@+id/txtmasv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:text="Mã sinh viên"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/txtGV"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:text="Giáo viên hướng dẫn"
+                android:textColor="#000000" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+
+        android:textColor="#08F312"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp">
+        <TextView
+
+            android:textColor="#000000"
+            android:layout_marginLeft="5dp"
+            android:text="Giá trị độ đục của nước"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textColor="#000000"
+            android:layout_marginLeft="30dp"
+            android:id="@+id/txtddn"
+            android:text="00"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content" />
+        <TextView
+
+            android:textColor="#000000"
+            android:layout_marginLeft="30dp"
+            android:text="%"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+
+        android:textColor="#08F312"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp">
+        <TextView
+
+            android:textColor="#000000"
+            android:layout_marginLeft="5dp"
+            android:text="Giá trị nhiệt độ nước"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textColor="#000000"
+            android:layout_marginLeft="30dp"
+            android:id="@+id/txtndn"
+            android:text="00"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content" />
+        <TextView
+
+
+            android:textColor="#000000"
+            android:layout_marginLeft="30dp"
+            android:text="°C"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:textColor="#08F312"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp">
+        <TextView
+            android:textColor="#000000"
+            android:layout_marginLeft="5dp"
+            android:text="Giá trị độ mặn của nước"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/txtdmn"
+            android:layout_width="43dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="00"
+            android:textColor="#000000" />
+        <TextView
+
+            android:textColor="#000000"
+            android:layout_marginLeft="30dp"
+            android:text="%"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+</LinearLayout>

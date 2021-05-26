@@ -21,8 +21,8 @@ namespace DATN___Bãi_Đỗ_Xe_Thông_Minh
         }
         IFirebaseConfig ifc = new FirebaseConfig()
         {
-            AuthSecret = "am0jkrGRyzrmBY02wKYWHkxNL6vqUJhkue0IY71q",
-            BasePath = "https://fir-esp8266-e5534-default-rtdb.firebaseio.com/"
+            AuthSecret = "WpZ6oHHCn1KY7YbMhjfZK3scltYcIA9qu6EK0BnU",
+            BasePath = "https://bai-do-xe-data-default-rtdb.asia-southeast1.firebasedatabase.app/"
         };
 
         IFirebaseClient client;

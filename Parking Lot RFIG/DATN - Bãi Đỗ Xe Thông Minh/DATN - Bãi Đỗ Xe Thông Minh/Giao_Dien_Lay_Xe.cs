@@ -25,8 +25,8 @@ namespace DATN___Bãi_Đỗ_Xe_Thông_Minh
 
         IFirebaseConfig ifc = new FirebaseConfig()
         {
-            AuthSecret = "am0jkrGRyzrmBY02wKYWHkxNL6vqUJhkue0IY71q",
-            BasePath = "https://fir-esp8266-e5534-default-rtdb.firebaseio.com/"
+            AuthSecret = "WpZ6oHHCn1KY7YbMhjfZK3scltYcIA9qu6EK0BnU",
+            BasePath = "https://bai-do-xe-data-default-rtdb.asia-southeast1.firebasedatabase.app/"
         };
 
         IFirebaseClient client;
@@ -113,7 +113,7 @@ namespace DATN___Bãi_Đỗ_Xe_Thông_Minh
         {
             client = new FireSharp.FirebaseClient(ifc);
             FirebaseResponse data_ = client.Get(@"In4_car_output/" + "My_RFID");
-            string number_card = data_.Body.ToString().Replace("\"", "");
+            string number_card = data_.Body.ToString().Replace("\"", "").Trim();
 
             in4_input in4_input_ = new in4_input()
             {
