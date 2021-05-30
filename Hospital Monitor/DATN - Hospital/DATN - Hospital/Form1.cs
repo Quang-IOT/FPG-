@@ -122,8 +122,7 @@ namespace DATN___Hospital
             string name = txt_mabn.Text;
             try
             {
-                DirectoryInfo directory = Directory.CreateDirectory("C:/data_DATN");
-                using (StreamReader sr = new StreamReader("C:/data_DATN/"+ name+ ".txt"))
+                using (StreamReader sr = new StreamReader(@"..\Database\" + name + ".txt"))
                 {
 
                     txt_ten.Text = sr.ReadLine().ToString();
@@ -131,13 +130,17 @@ namespace DATN___Hospital
                     txtbs.Text = sr.ReadLine().ToString();
                     txt_nnv.Text = sr.ReadLine().ToString();
                     txt_sdtnn.Text = sr.ReadLine().ToString();
-                    txt_benhan.Text = sr.ReadLine().ToString();
+                }
+                using (StreamReader sr_ = new StreamReader(@"..\Database\" + name + "_b_a.txt"))
+                {
+
+                    txt_benhan.Text = sr_.ReadLine().ToString();
 
                 }
             }
             catch (Exception e)
             {
-                txt_ten.Text = "err";
+                txt_ten.Text = "error";
             }
         }
 
@@ -158,7 +161,18 @@ namespace DATN___Hospital
             label5.Text = "Đã ngắt kết nối";
         }
 
+        private void btnSThem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FormAdd FormAdd_ = new FormAdd();
+            FormAdd_.ShowDialog();
+            this.Close();
+        }
 
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 
 

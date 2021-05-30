@@ -18,3 +18,14 @@ F:\DATN.K15\DATN - Hospital\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hos
 F:\DATN.K15\DATN - Hospital\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.csproj.CoreCompileInputs.cache
 F:\DATN.K15\DATN - Hospital\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.exe
 F:\DATN.K15\DATN - Hospital\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.pdb
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\bin\Debug\DATN - Hospital.exe.config
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\bin\Debug\DATN - Hospital.exe
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\bin\Debug\DATN - Hospital.pdb
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.csprojAssemblyReference.cache
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\obj\Debug\DATN___Hospital.Form1.resources
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\obj\Debug\DATN___Hospital.FormAdd.resources
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\obj\Debug\DATN___Hospital.Properties.Resources.resources
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.csproj.GenerateResource.cache
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.csproj.CoreCompileInputs.cache
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.exe
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\obj\Debug\DATN - Hospital.pdb

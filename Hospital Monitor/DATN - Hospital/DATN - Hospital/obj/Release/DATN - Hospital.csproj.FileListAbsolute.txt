@@ -1,0 +1,11 @@
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\bin\Release\DATN - Hospital.exe.config
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\bin\Release\DATN - Hospital.exe
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\bin\Release\DATN - Hospital.pdb
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\obj\Release\DATN - Hospital.csprojAssemblyReference.cache
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\obj\Release\DATN___Hospital.Form1.resources
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\obj\Release\DATN___Hospital.FormAdd.resources
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\obj\Release\DATN___Hospital.Properties.Resources.resources
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\obj\Release\DATN - Hospital.csproj.GenerateResource.cache
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\obj\Release\DATN - Hospital.csproj.CoreCompileInputs.cache
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\obj\Release\DATN - Hospital.exe
+C:\Users\BV_Computer\Documents\FPG-\Hospital Monitor\DATN - Hospital\DATN - Hospital\obj\Release\DATN - Hospital.pdb

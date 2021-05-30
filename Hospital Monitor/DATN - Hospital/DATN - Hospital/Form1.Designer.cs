@@ -72,6 +72,8 @@ namespace DATN___Hospital
             this.label21 = new System.Windows.Forms.Label();
             this.lb_nt = new System.Windows.Forms.Label();
             this.label23 = new System.Windows.Forms.Label();
+            this.btnSThem = new System.Windows.Forms.Button();
+            this.btnExit = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -453,11 +455,33 @@ namespace DATN___Hospital
             this.label23.TabIndex = 10;
             this.label23.Text = "Nhịp Tim";
             // 
+            // btnSThem
+            // 
+            this.btnSThem.Location = new System.Drawing.Point(15, 233);
+            this.btnSThem.Name = "btnSThem";
+            this.btnSThem.Size = new System.Drawing.Size(75, 23);
+            this.btnSThem.TabIndex = 23;
+            this.btnSThem.Text = "Thêm";
+            this.btnSThem.UseVisualStyleBackColor = true;
+            this.btnSThem.Click += new System.EventHandler(this.btnSThem_Click);
+            // 
+            // btnExit
+            // 
+            this.btnExit.Location = new System.Drawing.Point(15, 264);
+            this.btnExit.Name = "btnExit";
+            this.btnExit.Size = new System.Drawing.Size(75, 23);
+            this.btnExit.TabIndex = 24;
+            this.btnExit.Text = "Exit";
+            this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(655, 332);
+            this.Controls.Add(this.btnExit);
+            this.Controls.Add(this.btnSThem);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.button3);
@@ -531,6 +555,8 @@ namespace DATN___Hospital
         private System.Windows.Forms.Label label23;
         private System.Windows.Forms.TextBox txt_sdtnn;
         private System.Windows.Forms.Label label24;
+        private System.Windows.Forms.Button btnSThem;
+        private System.Windows.Forms.Button btnExit;
     }
 }
 
