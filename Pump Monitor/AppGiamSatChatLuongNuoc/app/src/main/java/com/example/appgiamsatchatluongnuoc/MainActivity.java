@@ -69,9 +69,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        txtName.setText("Tên sinh viên:");
-        txtmasv.setText("Mã SV:");
-        txtgvhd.setText("GVHD: ");
     }
 
     private void anhxa()

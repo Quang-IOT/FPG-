@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.IO;
 using System.IO.Ports;
 using System.Xml;
+using System.Media;
 // Bắt đầu code
 
 namespace DATN___Hospital
@@ -61,7 +62,7 @@ namespace DATN___Hospital
                 this.Invoke(d, new object[] { text });
             }
             else this.textBox1.Text += text;
-            InputData = "A69B0C0";// can sua cho nay
+            InputData = text;// can sua cho nay
             lb_nt.Text = InputData.Substring(1, 2).ToString();
             if (InputData.Substring(4, 1).ToString() == "0")
             {
@@ -70,6 +71,7 @@ namespace DATN___Hospital
             if (InputData.Substring(4, 1).ToString() == "1")
             {
                 lb_tt.Text = "ON";
+                SystemSounds.Beep.Play();
             }
             if (InputData.Substring(6, 1).ToString() == "0")
             {
@@ -78,6 +80,7 @@ namespace DATN___Hospital
             if (InputData.Substring(6, 1).ToString() == "1")
             {
                 lb_call.Text = "ON";
+                SystemSounds.Beep.Play();
             }
             label5.Text = "Đã kết nối";
         }
@@ -159,6 +162,7 @@ namespace DATN___Hospital
         private void button1_Click_1(object sender, EventArgs e)
         {
             label5.Text = "Đã ngắt kết nối";
+            
         }
 
         private void btnSThem_Click(object sender, EventArgs e)
