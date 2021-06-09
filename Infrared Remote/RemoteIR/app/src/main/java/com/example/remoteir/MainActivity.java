@@ -28,15 +28,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         anhxa();
         csdl = FirebaseDatabase.getInstance();
-//        on1 = csdl.getReference("TT_NUT_ON_1");
-//        on2 = csdl.getReference("TT_NUT_ON_2");
-//        on3 = csdl.getReference("TT_NUT_ON_3");
-//        on4 = csdl.getReference("TT_NUT_ON_4");
-//        up = csdl.getReference("TT_UP");
-//        dw = csdl.getReference("TT_DW");
-//        next = csdl.getReference("TT_NEXT");
-//        back = csdl.getReference("TT_BACK");
-//        b0 = csdl.getReference("NUT_0");
+        on1 = csdl.getReference("TT_NUT_ON_1");
+        on2 = csdl.getReference("TT_NUT_ON_2");
+        on3 = csdl.getReference("TT_NUT_ON_3");
+        on4 = csdl.getReference("TT_NUT_ON_4");
+        up = csdl.getReference("TT_UP");
+        dw = csdl.getReference("TT_DW");
+        next = csdl.getReference("TT_NEXT");
+        back = csdl.getReference("TT_BACK");
+        b0 = csdl.getReference("NUT_00");
         b1 = csdl.getReference("DATA/NUT_01");
         b2 = csdl.getReference("DATA/NUT_02");
         b3 = csdl.getReference("DATA/NUT_03");
@@ -46,12 +46,12 @@ public class MainActivity extends AppCompatActivity {
         b7 = csdl.getReference("DATA/NUT_07");
         b8 = csdl.getReference("DATA/NUT_08");
         b9 = csdl.getReference("DATA/NUT_09");
-//        bsao = csdl.getReference("TT_SAO");
-//        bthang = csdl.getReference("TT_THANG");
-//        mode = csdl.getReference("TT_MODE");
-//        menu = csdl.getReference("TT_MENU");
-//        exit = csdl.getReference("TT_EXIT");
-//        mute = csdl.getReference("TT_MUTE");
+        bsao = csdl.getReference("TT_SAO");
+        bthang = csdl.getReference("TT_THANG");
+        mode = csdl.getReference("TT_MODE");
+        menu = csdl.getReference("TT_MENU");
+        exit = csdl.getReference("TT_EXIT");
+        mute = csdl.getReference("TT_MUTE");
         set = csdl.getReference("SETUP/MODE");
         bt1.setOnTouchListener(new View.OnTouchListener() {
             @Override
@@ -157,7 +157,8 @@ public class MainActivity extends AppCompatActivity {
                     back.setValue("1");
                 }
                 else if(event.getAction()==MotionEvent.ACTION_UP)
-                {back.setValue("0");
+                {
+                    back.setValue("0");
                 }
                 return false;
             }
@@ -198,7 +199,8 @@ public class MainActivity extends AppCompatActivity {
                     exit.setValue("1");
                 }
                 else if(event.getAction()==MotionEvent.ACTION_UP)
-                {exit.setValue("0");
+                {
+                    exit.setValue("0");
                 }
                 return false;
             }
